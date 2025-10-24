@@ -41,11 +41,15 @@ If you guess the word before hangman forms you win or else you lose
 Enter your choice of words to be asked fruits or countries or occupations: fruits
 
 ['_', '_', '_', '_','_']
-Guess the letter: a
+
+guess the letter: a
+
 ['_', 'a', '_', '_', '_']
 
 Guess the letter: z
+
 Wrong guess !! Lost one life
+
    ------
    |    |
    O    |
